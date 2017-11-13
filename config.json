@@ -2,6 +2,7 @@
     "name": "Ten-item Personality Inventory Survey",
     "template":"survey",
     "exp_id": "ten-item-personality-survey",
+    "url": "https://github.com/expfactory-experiments/ten-item-personality-server",
     "cognitive_atlas_task_id": "trm_56a919a478935",
     "contributors": [
              "Zeynep Enkavi",
