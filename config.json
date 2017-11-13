@@ -1,0 +1,17 @@
+{
+    "name": "Ten-item Personality Inventory Survey",
+    "template":"survey",
+    "exp_id": "ten-item-personality-survey",
+    "cognitive_atlas_task_id": "trm_56a919a478935",
+    "contributors": [
+             "Zeynep Enkavi",
+             "Ian Eisenberg",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time":1,
+    "reference": ["http://www.sciencedirect.com/science/article/pii/S0092656603000461"],
+    "description": "Experiment Factory survey",
+    "instructions": "Please answer the following questions to the best of your ability"
+}
